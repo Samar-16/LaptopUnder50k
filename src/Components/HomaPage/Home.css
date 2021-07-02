@@ -1,0 +1,28 @@
+#navid{
+    display: flex;
+    text-align: left;
+    background-color: rgb(26, 26, 78);
+}
+#navid .navhead{
+    margin-left: 25px;
+    color:rgb(255, 255, 255);
+}
+.lapcard{
+    display: flex;
+}
+.lapcard img{
+    width:500px;
+    height:450px;
+    padding-left:35px;
+    padding-top:23px;
+}
+.info li{
+    font-size: 19px;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:1px;
+}
+.info{
+     padding-top: 5rem;
+     padding-left:3rem;
+}
